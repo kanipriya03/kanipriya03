@@ -23,16 +23,15 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E018.svg?logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![NLP](https://img.shields.io/badge/NLP-%23005B96.svg?logo=language&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FF5722.svg?logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=keras&logoColor=white)](https://keras.io/)
-[![NLP](https://img.shields.io/badge/NLP-%23005B96.svg?logo=language&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Django](https://img.shields.io/badge/Django-%23092D84.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/Flask-%000000.svg?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-%234B9A2E.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23FF5722.svg?logo=opencv&logoColor=white)](https://en.wikipedia.org/wiki/Computer_vision)
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kanipriya03&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>

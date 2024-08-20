@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 10px;">
-      <img src="https://camo.githubusercontent.com/ef8cdf83518ca89207bd4656ef35a11fd76e562975041c3ad1e662db71c60b94/68747470733a2f2f696d6167652e7368757474657273746f636b2e636f6d2f696d6167652d766563746f722f796f756e672d776f6d616e2d7772697465732d636f64652d6f6e2d3236306e772d313733313135373933332e6a7067" alt="Your Image" width="100" />
-    </td>
-    <td style="vertical-align: top;">
+
       <h2>👋 Hi, I'm Kanipriya!</h2>
       <p>
         💼 <strong>Machine Learning Intern</strong> at <strong>Nunnari Labs</strong><br>
@@ -16,9 +11,8 @@
         ✨ <strong>Fun Fact</strong>: I love combining tech with creativity in AI and web apps<br>
         📫 <strong>How to reach me</strong>: <a href="https://www.linkedin.com/in/kanipriya">LinkedIn</a>
       </p>
-    </td>
-  </tr>
-</table>
+    
+
 
 
 

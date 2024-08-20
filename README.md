@@ -1,18 +1,13 @@
+## 👋 Hi, I'm Kanipriya!
 
-      <h2>👋 Hi, I'm Kanipriya!</h2>
-      <p>
-        💼 <strong>Machine Learning Intern</strong> at <strong>Nunnari Labs</strong><br>
-        💻 <strong>Machine Learning Enthusiast</strong> passionate about <strong>Natural Language Processing (NLP)</strong> and <strong>Computer Vision</strong><br>
-        🧠 <strong>Skills</strong>: Python, Machine Learning, Deep Learning, NLP, Computer Vision, Streamlit, MongoDB, TensorFlow, Scikit-Learn, Hugging Face<br>
-        🚀 <strong>Currently working on</strong>: Building AI-driven applications that leverage NLP and Computer Vision to solve real-world problems, integrating multimodal data processing, and exploring cutting-edge techniques<br>
-        🛠️ <strong>Hands-on Projects</strong>: Successfully developed projects involving image captioning, face recognition, and object detection, with a focus on delivering impactful results<br>
-        📚 <strong>Learning</strong>: Continuously upskilling in Django, advanced NLP models, and computer vision frameworks to build robust and scalable applications<br>
-        🌱 <strong>Open to Collaborations</strong>: Excited to collaborate on innovative projects in AI and open-source contributions<br>
-        ✨ <strong>Fun Fact</strong>: I love combining tech with creativity in AI and web apps<br>
-        📫 <strong>How to reach me</strong>: <a href="https://www.linkedin.com/in/kanipriya">LinkedIn</a>
-      </p>
-    
-
+💼 **Machine Learning Intern** at **Nunnari Labs**  
+💻 **Machine Learning Enthusiast** passionate about **Natural Language Processing (NLP)** and **Computer Vision**  
+🧠 **Skills**: Python, Machine Learning, Deep Learning, NLP, Computer Vision, Streamlit, MongoDB, TensorFlow, Scikit-Learn, Hugging Face  
+🚀 **Currently working on**: Building AI-driven applications that leverage NLP and Computer Vision to solve real-world problems, integrating multimodal data processing, and exploring cutting-edge techniques  
+📚 **Learning**: Continuously upskilling in Django, advanced NLP models, and computer vision frameworks to build robust and scalable applications  
+🌱 **Open to Collaborations**: Excited to collaborate on innovative projects in AI and open-source contributions  
+✨ **Fun Fact**: I love combining tech with creativity in AI and web apps  
+📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/kanipriya)
 
 
 

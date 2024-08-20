@@ -1,5 +1,10 @@
 # 💫 About Me:
-![Laptop](https://img.shields.io/badge/Laptop-%23000000.svg?logo=laptop&logoColor=white)
+<table>
+  <tr>
+    <td>
+      <img src="https://camo.githubusercontent.com/ef8cdf83518ca89207bd4656ef35a11fd76e562975041c3ad1e662db71c60b94/68747470733a2f2f696d6167652e7368757474657273746f636b2e636f6d2f696d6167652d766563746f722f796f756e672d776f6d616e2d7772697465732d636f64652d6f6e2d3236306e772d313733313135373933332e6a7067" alt="Your Image" width="100" />
+    </td>
+    <td>
 
 
 👋 Hi, I'm Kanipriya!<br><br>💼 Machine Learning Intern at Nunnari Labs.<br>💻 Machine Learning Enthusiast passionate about Natural Language Processing (NLP) and Computer Vision.<br>🧠 Skills: Python, Machine Learning, Deep Learning, NLP, Computer Vision, Streamlit, MongoDB, TensorFlow, Scikit-Learn, Hugging Face.<br>🚀 Currently working on: Building AI-driven applications that leverage NLP and Computer Vision to solve real-world problems, integrating multimodal data processing, and exploring cutting-edge techniques.<br>📚 Learning: Continuously upskilling in Django, advanced NLP models, and computer vision frameworks to build robust and scalable applications.<br>🌱 Open to Collaborations: Excited to collaborate on innovative projects in AI and open-source contributions.<br>✨ Fun Fact: I love combining tech with creativity in AI and web apps.<br>📫 How to reach me: LinkedIn

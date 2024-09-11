@@ -5,7 +5,6 @@
 🧠 **Skills**: Python, Machine Learning, Deep Learning, NLP, Computer Vision, Streamlit, MongoDB, TensorFlow, Scikit-Learn, Hugging Face  
 🚀 **Currently working on**: Building AI-driven applications that leverage NLP and Computer Vision to solve real-world problems, integrating multimodal data processing, and exploring cutting-edge techniques  
 📚 **Learning**: Continuously upskilling in Django, advanced NLP models, and computer vision frameworks to build robust and scalable applications  
-🌱 **Open to Collaborations**: Excited to collaborate on innovative projects in AI and open-source contributions  
 ✨ **Fun Fact**: I love combining tech with creativity in AI and web apps  
 📫 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/kanipriya)
 
